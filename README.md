@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/RyanMS27/RyanMS27O/blob/output/snake.svg)
+<![Snake animation](https://github.com/RyanMS27/RyanMS27O/blob/output/snake.svg) />
 
 ###
 
