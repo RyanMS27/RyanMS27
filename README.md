@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" src="https://raw.githubusercontent.com/roodriiigooo/roodriiigooo/main/.assets/HEADER_1668444883110.png"  />
+  <img height="280" src="blob:https://web.whatsapp.com/33e1c758-f989-43d9-bc8f-d9818a526720"  />
 </div>
 
 ###
