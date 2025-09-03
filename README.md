@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://contentstatic.techgig.com/photo/83117460.cms" height="40" alt="java logo"  />
+  <img src="https://images.icon-icons.com/3398/PNG/512/java_logo_icon_214654.png" height="40" alt="java logo"  />
 </div>
 
 ###
