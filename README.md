@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🚀 Iniciando minha trajetória na tecnologia<br><br>Assim como tantas pessoas inspiradoras na área, estou oficialmente dando meus primeiros passos no universo de Análise e Desenvolvimento de Sistemas.<br><br>🎓 Atualmente estudando e mergulhando em linguagens como HTML, CSS, JavaScript e explorando frameworks como Node.js e React, estou determinado a construir soluções que unem design, lógica e propósito.<br><br>🔍 Com olhar analítico e espírito curioso, minha meta é transformar problemas em projetos e ideias em código.<br><br>📚 Sempre aberto a dicas, boas conversas e conexões com quem também vive esse mundo de desenvolvimento.</p>
+<p align="left">🚀 Iniciando minha trajetória na tecnologia<br><br>Assim como tantas pessoas inspiradoras na área, estou oficialmente dando meus primeiros passos no universo de Análise e Desenvolvimento de Sistemas.<br><br>🎓 Atualmente estudando e mergulhando em linguagens como HTML, CSS, Java e explorando frameworks como Node.js e React, estou determinado a construir soluções que unem design, lógica e propósito.<br><br>🔍 Com olhar analítico e espírito curioso, minha meta é transformar problemas em projetos e ideias em código.<br><br>📚 Sempre aberto a dicas, boas conversas e conexões com quem também vive esse mundo de desenvolvimento.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Técnico em Desenvolvimento de Sitemas pela UNINOVE<br><br>📚 Cursando Análise e Desenvolvimento de Sistemas. <br><br>🌍 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
+<p align="left">✨ Técnico em Desenvolvimento de Sistemas pela UNINOVE<br><br>📚 Cursando Análise e Desenvolvimento de Sistemas. <br><br>🌍 Explorando novas tecnologias e desenvolvendo soluções de software.</p>
 
 ###
 
@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
