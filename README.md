@@ -23,19 +23,6 @@
 <h2 align="left"></h2>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanMS27/RyanMS27/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanMS27/RyanMS27/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RyanMS27/RyanMS27/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -52,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img src="https://images.icon-icons.com/3398/PNG/512/java_logo_icon_214654.png" height="40" alt="java logo"  />
 </div>
+
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanMS27/RyanMS27/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanMS27/RyanMS27/output/pacman-contribution-graph.svg">
@@ -59,4 +48,7 @@
 </picture>
 
 ###
-###
+
+
+
+
