@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="280" src="[[https://media.licdn.com/dms/image/v2/D5616AQEZdbdGKxSByQ/profile-displaybackgroundimage-shrink_350_1400/B56ZkRkSt0HIAk-/0/1756936352874?e=1764806400&v=beta&t=gFmZUVOzKPWBCBM5tIE0ZDafKW7rpsfMgeqpWfGgP6o](https://media.licdn.com/dms/image/v2/D5616AQEZdbdGKxSByQ/profile-displaybackgroundimage-shrink_200_800/B56ZkRkSt0HIAg-/0/1756936352874?e=1784764800&v=beta&t=GB1oy4B6tV-h3xrX41TkJLD9erF0xeN3xhGjTABNARk)](https://media.licdn.com/dms/image/v2/D5616AQEZdbdGKxSByQ/profile-displaybackgroundimage-shrink_350_1400/B56ZkRkSt0HIAk-/0/1756936352874?e=1784764800&v=beta&t=fWh01KrT26gmSs6C9uY_EryOQ0DvGDUWxRHHHyMQFak)"  />
+  <img height="280" src="https://media.licdn.com/dms/image/v2/D5616AQEZdbdGKxSByQ/profile-displaybackgroundimage-shrink_350_1400/B56ZkRkSt0HIAk-/0/1756936352874?e=1764806400&v=beta&t=gFmZUVOzKPWBCBM5tIE0ZDafKW7rpsfMgeqpWfGgP6o](https://media.licdn.com/dms/image/v2/D5616AQEZdbdGKxSByQ/profile-displaybackgroundimage-shrink_200_800/B56ZkRkSt0HIAg-/0/1756936352874?e=1784764800&v=beta&t=GB1oy4B6tV-h3xrX41TkJLD9erF0xeN3xhGjTABNARk)](https://media.licdn.com/dms/image/v2/D5616AQEZdbdGKxSByQ/profile-displaybackgroundimage-shrink_350_1400/B56ZkRkSt0HIAk-/0/1756936352874?e=1784764800&v=beta&t=fWh01KrT26gmSs6C9uY_EryOQ0DvGDUWxRHHHyMQFak)"  />
 </div>
 
 ###
