@@ -1,6 +1,8 @@
  <div align="center">
+  <img height="280" src="https://media.licdn.com/dms/image/v2/D5616AQEZdbdGKxSByQ/profile-displaybackgroundimage-shrink_350_1400/B56ZkRkSt0HIAk-/0/1756936352874?e=1795651200&v=beta&t=c9O7ow7E-qkWIlHbBdKqkrrlCJC7j8R0SINlPSldFmU" />
+</div>
 
-# 👨‍💻 Ryan Silva
+#  <h1 align="left">👨‍💻Ryan Silva</h1>
 
 ### Backend Developer | Java & Spring Boot | IT Support Specialist
 
@@ -8,7 +10,7 @@ Building solutions, solving problems and evolving through technology.
 
 [LinkedIn](https://www.linkedin.com/in/ryandemiradansilva/) • [GitHub](https://github.com/RyanMS27)
 
-</div>
+
 
 ---
 
