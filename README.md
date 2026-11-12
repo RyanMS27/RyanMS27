@@ -1,5 +1,5 @@
  <div align="center">
-  <img height="280" src="https://media.licdn.com/dms/image/v2/D5616AQEZdbdGKxSByQ/profile-displaybackgroundimage-shrink_350_1400/B56ZkRkSt0HIAk-/0/1756936352874?e=1795651200&v=beta&t=c9O7ow7E-qkWIlHbBdKqkrrlCJC7j8R0SINlPSldFmU" />
+  <img height="280" src="https://media.licdn.com/dms/image/v2/D4D16AQF_gpJChP7LEg/profile-displaybackgroundimage-shrink_350_1400/B4DaHRXGt2HYAU-/0/1794513857708?e=1796256000&v=beta&t=8vjqH-072lhU89Lo7BBC2y-1a4xHs1OjCXDqpe19YmU" />
 </div>
 
 #  <h1 align="left">👨‍💻Ryan Silva</h1>
